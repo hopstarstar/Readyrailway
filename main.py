@@ -5,8 +5,8 @@ from datetime import datetime, timedelta
 from telegram import Update, KeyboardButton, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
-BOT_TOKEN = "YOUR_TOKEN_HERE"
-ADMIN_ID = "YOUR_TELEGRAM_ID"
+BOT_TOKEN = "8301751505:AAGMrreQgWuEhDpjA_dmYDP0viNueMJMVE4"
+ADMIN_ID = "5952515002"
 
 # Example codes (you will replace them)
 CODES = {
