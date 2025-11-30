@@ -18,7 +18,7 @@ ADMIN_ID = 5952515002
 # Example codes (replace/add your own)
 CODES = {
     "8D3c": "https://mega.nz/folder/DB9XTZbB#4OTr7_IYHzlvvx8Qb9qq2g",
-    "2222": "https://example.com/link2",
+    "7w0G": "https://example.com/link2",
     "3333": "https://example.com/link3",
     "4444": "https://example.com/link4",
     "5555": "https://example.com/link5",
