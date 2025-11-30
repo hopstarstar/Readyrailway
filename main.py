@@ -10,7 +10,7 @@ ADMIN_ID = "5952515002"
 
 # Example codes (you will replace them)
 CODES = {
-    "1111": "https://example.com/link1",
+    "8D3c": "https://mega.nz/folder/DB9XTZbB#4OTr7_IYHzlvvx8Qb9qq2g",
     "2222": "https://example.com/link2",
     "3333": "https://example.com/link3",
     "4444": "https://example.com/link4",
